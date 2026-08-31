@@ -1,5 +1,6 @@
 # Qalb Dakhir Privacy Policy
 
+
 Qalb Dakhir respects your privacy. The app primarily operates on your device. It does not require an account, show ads, use analytics or tracking tools, or send your personal data to the app developer.
 
 ## Information used by the app
@@ -15,7 +16,7 @@ Calculations and personalization take place locally on your device. Settings and
 
 ## Permissions
 
-The app requests location only when you use prayer-time or Qibla features, notification permission when you enable reminders, and optional alarms-and-reminders access to improve the timing of Adhan and alerts. You may deny or revoke permissions in device settings; the related feature may then be less accurate or unavailable.
+The app may request location permission during the optional initial setup to calculate prayer times and Qibla direction for your area, and notification permission to configure prayer and Dhikr reminders. You may skip this step or deny either permission and continue using the rest of the app. The app also requests location when you use prayer-time or Qibla features, notification permission when you enable reminders, and optional alarms-and-reminders access to improve the timing of Adhan and alerts. Permissions can be changed later in device settings; the related feature may then be less accurate or unavailable.
 
 ## Sharing with other apps
 
