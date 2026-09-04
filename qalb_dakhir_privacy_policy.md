@@ -1,5 +1,5 @@
 # Qalb Dakhir Privacy Policy
-
+Effective Date: September 5, 2026 & Last Updated: September 5, 2026
 
 Qalb Dakhir respects your privacy. The app primarily operates on your device. It does not require an account, show ads, use analytics or tracking tools, or send your personal data to the app developer.
 
