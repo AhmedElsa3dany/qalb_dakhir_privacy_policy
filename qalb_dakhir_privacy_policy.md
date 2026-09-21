@@ -1,15 +1,15 @@
-# Qalb Dakhir Privacy Policy
+# Mathoor Privacy Policy
 
-Effective Date: September 5, 2026 & Last Updated: September 5, 2026
+_Last updated: September 19, 2026_
 
-Qalb Dakhir respects your privacy. The app primarily operates on your device. It does not require an account, show ads, use analytics or tracking tools, or send your personal data to the app developer.
+Mathoor respects your privacy. The app primarily operates on your device. It does not require an account, show ads, use analytics or tracking tools, or send your personal data to the app developer.
 
 ## Information used by the app
 
-* Approximate or precise location, with your permission, to calculate prayer times and Qibla direction and identify the local area.
-* Compass sensor readings for Qibla direction.
-* Images you select to personalize your daily card or profile.
-* Your settings, favorites, progress, goals, saved prayer locations, and reminder schedules.
+- Approximate or precise location, with your permission, to calculate prayer times and Qibla direction and identify the local area.
+- Compass sensor readings for Qibla direction.
+- Images you select to personalize your daily card or profile.
+- Your settings, favorites, progress, goals, saved prayer locations, and reminder schedules.
 
 ## How information is used and stored
 
@@ -29,13 +29,7 @@ Local data remains until you remove the relevant item in the app, reset the app,
 
 ## Children
 
-Qalb Dakhir may be used by users aged 13 and older, including teenagers and adults. The app is not specifically designed for children under the age of 13.
-
-The developer does not knowingly collect, store, or transmit personal data from children or other users to developer-operated servers. The app does not require user accounts, display advertisements, or use analytics or tracking tools.
-
-Any optional information used by the app, such as location, selected images, settings, favorites, progress, goals, saved prayer locations, and reminder schedules, is used for the app's functionality and is primarily processed or stored locally on the user's device as described in this Privacy Policy.
-
-Users under the age of majority should use the app and grant device permissions with the knowledge or supervision of a parent or legal guardian where required by applicable law.
+The app is not specifically designed for children, and the developer does not knowingly collect personal data from children.
 
 ## Changes and contact
 
